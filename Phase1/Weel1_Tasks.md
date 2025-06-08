@@ -91,4 +91,3 @@ Objective: Access a GPIO register in bare-metal C.
  • Create a volatile pointer to address 0x10012000.
  • Toggle the GPIO using direct memory access.
  Learning: Understood volatile and how it prevents compiler optimization.
-

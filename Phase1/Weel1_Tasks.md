@@ -1,6 +1,6 @@
 [1] Install & Sanity-Check the Toolchain
 Objective: Set up the RISC-V toolchain and confirm binaries work.
- Steps:
+ Steps
  • Unpack the archive using tar.
  • Add the toolchain path to ~/.bashrc or terminal.
  • Confirm binaries like gcc, objdump, and gdb are accessible.
